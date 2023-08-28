@@ -1,6 +1,5 @@
 Mushaf Gontor resolusi
 -Membuat website khusus mushaf Gontor
 -Mushaf digital terdiri dari terjemah bahasa Indonesia
--Mushaf juga bisa menghadirkan tajwid warna.
 -Mushaf ditambah dengan i'rab quran
 -Proses digitalisasi dalam dua tahun
